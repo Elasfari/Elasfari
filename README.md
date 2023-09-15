@@ -1,4 +1,4 @@
-![image](https://github.com/Elasfari/Elasfari/assets/95232925/6a1adf27-7504-49f7-ac7e-1e8a6383eda2)[![MasterHead](https://sloanreview.mit.edu/wp-content/uploads/2020/07/AI-ML-Exec-Guide-Featured-2000x600-1.jpg)](https://rishavchanda.io)
+![image](https://github.com/Elasfari/Elasfari/assets/95232925/6a1adf27-7504-49f7-ac7e-1e8a6383eda2)
 <h1 align="center">Hi 👋, I'm Yassin Elasfar</h1>
 <h3 align="center">AI Student | Entry-Level ML Engineer</h3>
 <img align="right" alt="Coding" width="300" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
