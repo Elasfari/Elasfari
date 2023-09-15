@@ -1,6 +1,7 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fmachine-learning&psig=AOvVaw3sJD2UxLxssUYo11Yvv6EK&ust=1694876103360000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCM69LvrIEDFQAAAAAdAAAAABAE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yassin Elasfar</h1>
 <h3 align="center">AI Student | Entry-Level ML Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e47orm050su1a72va9gssl5ymid9fe4u8ynm5e5sz8b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e47orm050su1a72va9gssl5ymid9fe4u8ynm5e5sz8b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elasfari&label=Profile%20views&color=0e75b6&style=flat" alt="elasfari" /> </p>
 
