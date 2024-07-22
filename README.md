@@ -1,6 +1,6 @@
 ![image](https://github.com/Elasfari/Elasfari/assets/95232925/6a1adf27-7504-49f7-ac7e-1e8a6383eda2)
 <h1 align="center">Hi 👋, I'm Yassin Elasfar</h1>
-<h3 align="center">AI Student | Entry-Level ML Engineer</h3>
+<h3 align="center">AI Student</h3>
 <img align="right" alt="Coding" width="300" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elasfari&label=Profile%20views&color=0e75b6&style=flat" alt="elasfari" /> </p>
 - 🌱 I’m currently learning **Machine Learning**
