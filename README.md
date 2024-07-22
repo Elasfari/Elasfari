@@ -3,7 +3,6 @@
 <h3 align="center">AI Student</h3>
 <img align="right" alt="Coding" width="300" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elasfari&label=Profile%20views&color=0e75b6&style=flat" alt="elasfari" /> </p>
-- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **yassenelasfar@gmail.com**
 
